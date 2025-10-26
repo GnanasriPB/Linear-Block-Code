@@ -145,8 +145,9 @@ The error postion is : 0 0 1 0 0 0
 The correct codeword is : 1 1 1 1 1 1
 ```
 # Results
-
+```
 ->The codes could detect multiple errors and correct single errors.
 ->They reduced transmission errors significantly compared to uncoded data.
 ->Encoding/decoding remained fast and practical for real-world use.
 The experiment showed linear block codes improve data reliability without complex computations
+```
